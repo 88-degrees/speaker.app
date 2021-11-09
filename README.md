@@ -253,11 +253,9 @@ Update this document and have it automatically generate the table of contents in
 
 To contribute, however slightly, to the commonwealth of all human innovation and experience.
 
-## Help Us Continue Writing Free Software
+## Help Us Continue Writings
 
-**PayPal**: https://www.paypal.com/paypalme/zenOSmosis
-
-**Buy Me a Coffee**:  https://www.buymeacoffee.com/Kg8VCULYI
+### [Donate with Nano](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://88o.io/success?id={{id}}&cancel_url=https://88o.io/)
 
 ## License
 
