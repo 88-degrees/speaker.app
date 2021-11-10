@@ -49,8 +49,6 @@ To see it live, navigate to [https://speaker.app](https://speaker.app).
     - [Error: ENOSPC: System limit for number of file watchers reached](#error-enospc-system-limit-for-number-of-file-watchers-reached)
     - [Linux check CPU speed](#linux-check-cpu-speed)
     - [Auto-Generate Markdown Table of Contents](#auto-generate-markdown-table-of-contents)
-  - [Motto](#motto)
-  - [Help Us Continue Writing Free Software](#help-us-continue-writing-free-software)
   - [License](#license)
 
 ## Browser Support Matrix
@@ -248,12 +246,6 @@ Leftover artifact when after doing some headless Chrome testing and seeing how t
 ### Auto-Generate Markdown Table of Contents
 
 Update this document and have it automatically generate the table of contents in VS Code: **Markdown All in One Extension**
-
-## Motto
-
-To contribute, however slightly, to the commonwealth of all human innovation and experience.
-
-## Help Us Continue Writings
 
 ### [Donate with Nano](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://88o.io/success?id={{id}}&cancel_url=https://88o.io/)
 
